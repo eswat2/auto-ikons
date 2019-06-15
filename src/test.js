@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import { AutoIcons } from "./"
 
-describe('ExampleComponent', () => {
-  it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+describe("AutoIcons", () => {
+  it("is truthy", () => {
+    expect(AutoIcons).toBeTruthy()
   })
 })
