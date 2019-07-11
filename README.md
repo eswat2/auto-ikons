@@ -1,6 +1,6 @@
 # auto-ikons
 
-> collection of SVG icon components for React
+> prototype - collection of SVG icon components for React
 
 [![NPM](https://img.shields.io/npm/v/auto-ikons.svg)](https://www.npmjs.com/package/auto-ikons) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 

@@ -1,7 +1,7 @@
 {
   "name": "auto-ikons",
   "version": "0.0.2",
-  "description": "collection of SVG icon components for React",
+  "description": "prototype - collection of SVG icon components for React",
   "author": "eswat2",
   "license": "MIT",
   "repository": "eswat2/auto-ikons",
@@ -20,6 +20,12 @@
     "prepare": "yarn run build",
     "predeploy": "cd example && yarn install && yarn run build",
     "deploy": "gh-pages -d example/build"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
   },
   "peerDependencies": {
     "prop-types": "^15.5.4",

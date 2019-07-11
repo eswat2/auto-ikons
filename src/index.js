@@ -1,2 +1,2 @@
 // NOTE:  we are just publishing a single object...
-export * from "./icons"
+export * from './icons'
