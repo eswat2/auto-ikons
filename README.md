@@ -13,9 +13,8 @@ npm install --save auto-ikons
 ## Usage
 
 ```jsx
-import React, { Component } from "react"
-
-import { AutoIcons } from "auto-ikons"
+import React, { Component } from 'react'
+import * as AutoIcons from 'auto-ikons'
 
 const keys = Object.keys(AutoIcons)
 
@@ -24,7 +23,7 @@ export default class App extends Component {
     return (
       <div
         style={{
-          margin: 40
+          margin: 40,
         }}
       >
         <h1>Modern React component module</h1>
@@ -36,9 +35,9 @@ export default class App extends Component {
               key={`icon-${index}`}
               style={{
                 height: 48,
-                display: "flex",
-                flexDirection: "row",
-                alignItems: "center"
+                display: 'flex',
+                flexDirection: 'row',
+                alignItems: 'center',
               }}
             >
               <Icon style={{ width: 24, height: 24 }} />

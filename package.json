@@ -25,7 +25,8 @@
     "trailingComma": "es5",
     "tabWidth": 2,
     "semi": false,
-    "singleQuote": true
+    "singleQuote": true,
+    "printWidth": 150
   },
   "peerDependencies": {
     "prop-types": "^15.7.2",
