@@ -12,9 +12,12 @@ npm install --save auto-ikons
 
 ## Usage
 
+> the only export is an object called **AutoIcons**:
+
+
 ```jsx
 import React, { Component } from 'react'
-import * as AutoIcons from 'auto-ikons'
+import { AutoIcons } from 'auto-ikons'
 
 const keys = Object.keys(AutoIcons)
 
