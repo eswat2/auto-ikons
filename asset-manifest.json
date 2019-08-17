@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/auto-ikons/static/css/main.a2b7b0b6.chunk.css",
+    "main.js": "/auto-ikons/static/js/main.6993f093.chunk.js",
+    "main.js.map": "/auto-ikons/static/js/main.6993f093.chunk.js.map",
+    "runtime~main.js": "/auto-ikons/static/js/runtime~main.61431715.js",
+    "runtime~main.js.map": "/auto-ikons/static/js/runtime~main.61431715.js.map",
+    "static/js/2.40635077.chunk.js": "/auto-ikons/static/js/2.40635077.chunk.js",
+    "static/js/2.40635077.chunk.js.map": "/auto-ikons/static/js/2.40635077.chunk.js.map",
+    "index.html": "/auto-ikons/index.html",
+    "precache-manifest.21b3f97cea3068eedfe622bd2ca13b6f.js": "/auto-ikons/precache-manifest.21b3f97cea3068eedfe622bd2ca13b6f.js",
+    "service-worker.js": "/auto-ikons/service-worker.js",
+    "static/css/main.a2b7b0b6.chunk.css.map": "/auto-ikons/static/css/main.a2b7b0b6.chunk.css.map"
+  }
+}
