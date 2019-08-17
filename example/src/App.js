@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import * as AutoIcons from 'auto-ikons'
+import AutoIcons from 'auto-ikons'
 
 const keys = Object.keys(AutoIcons)
 
