@@ -74,7 +74,8 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-postcss": "^2.0.3",
-    "rollup-plugin-url": "^2.2.2"
+    "rollup-plugin-url": "^2.2.2",
+    "set-value": "3.0.1"
   },
   "files": [
     "dist"
@@ -84,5 +85,6 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "dependencies": {}
 }
