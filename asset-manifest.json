@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/auto-ikons/static/css/main.a2b7b0b6.chunk.css",
-    "main.js": "/auto-ikons/static/js/main.0e3c6756.chunk.js",
-    "main.js.map": "/auto-ikons/static/js/main.0e3c6756.chunk.js.map",
+    "main.js": "/auto-ikons/static/js/main.5e2fa0bc.chunk.js",
+    "main.js.map": "/auto-ikons/static/js/main.5e2fa0bc.chunk.js.map",
     "runtime~main.js": "/auto-ikons/static/js/runtime~main.5ed0a4f0.js",
     "runtime~main.js.map": "/auto-ikons/static/js/runtime~main.5ed0a4f0.js.map",
-    "static/js/2.eca591ee.chunk.js": "/auto-ikons/static/js/2.eca591ee.chunk.js",
-    "static/js/2.eca591ee.chunk.js.map": "/auto-ikons/static/js/2.eca591ee.chunk.js.map",
+    "static/js/2.835a0327.chunk.js": "/auto-ikons/static/js/2.835a0327.chunk.js",
+    "static/js/2.835a0327.chunk.js.map": "/auto-ikons/static/js/2.835a0327.chunk.js.map",
     "index.html": "/auto-ikons/index.html",
-    "precache-manifest.7235790fc5d430c503b94b5198b23ca1.js": "/auto-ikons/precache-manifest.7235790fc5d430c503b94b5198b23ca1.js",
+    "precache-manifest.bb7e12b204e62e201fdd79a35ffcf0b4.js": "/auto-ikons/precache-manifest.bb7e12b204e62e201fdd79a35ffcf0b4.js",
     "service-worker.js": "/auto-ikons/service-worker.js",
     "static/css/main.a2b7b0b6.chunk.css.map": "/auto-ikons/static/css/main.a2b7b0b6.chunk.css.map"
   }
