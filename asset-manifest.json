@@ -5,16 +5,16 @@
     "main.js.map": "/auto-ikons/static/js/main.2134c79d.chunk.js.map",
     "runtime-main.js": "/auto-ikons/static/js/runtime-main.ff658e7f.js",
     "runtime-main.js.map": "/auto-ikons/static/js/runtime-main.ff658e7f.js.map",
-    "static/js/2.8a5470a4.chunk.js": "/auto-ikons/static/js/2.8a5470a4.chunk.js",
-    "static/js/2.8a5470a4.chunk.js.map": "/auto-ikons/static/js/2.8a5470a4.chunk.js.map",
+    "static/js/2.cad06fec.chunk.js": "/auto-ikons/static/js/2.cad06fec.chunk.js",
+    "static/js/2.cad06fec.chunk.js.map": "/auto-ikons/static/js/2.cad06fec.chunk.js.map",
     "index.html": "/auto-ikons/index.html",
-    "precache-manifest.4f6cdf5e5117f752a90704f6a9fd7ffc.js": "/auto-ikons/precache-manifest.4f6cdf5e5117f752a90704f6a9fd7ffc.js",
+    "precache-manifest.84441f832d454a64a7a84aa456bf4f1d.js": "/auto-ikons/precache-manifest.84441f832d454a64a7a84aa456bf4f1d.js",
     "service-worker.js": "/auto-ikons/service-worker.js",
     "static/css/main.a2b7b0b6.chunk.css.map": "/auto-ikons/static/css/main.a2b7b0b6.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.ff658e7f.js",
-    "static/js/2.8a5470a4.chunk.js",
+    "static/js/2.cad06fec.chunk.js",
     "static/css/main.a2b7b0b6.chunk.css",
     "static/js/main.2134c79d.chunk.js"
   ]
