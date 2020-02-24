@@ -18,7 +18,6 @@
     "build": "rollup -c",
     "start": "rollup -c -w",
     "prepare": "yarn build",
-    "predeploy": "yarn build",
     "prepublish": "yarn build",
     "deploy": "yarn publish",
     "open": "open https://eswat2.github.io/auto-ikons"
