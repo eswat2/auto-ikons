@@ -1,6 +1,6 @@
 {
   "name": "auto-ikons",
-  "version": "0.1.71",
+  "version": "0.1.72",
   "description": "prototype - collection of SVG icon components for React",
   "author": "eswat2",
   "license": "MIT",
@@ -18,7 +18,6 @@
     "build": "rollup -c",
     "start": "rollup -c -w",
     "prepare": "yarn build",
-    "prepublish": "yarn build",
     "deploy": "yarn publish",
     "open": "open https://eswat2.github.io/auto-ikons"
   },
