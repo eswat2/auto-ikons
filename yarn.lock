@@ -2961,9 +2961,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001035, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001111:
-  version "1.0.30001113"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001113.tgz#22016ab55b5a8b04fa00ca342d9ee1b98df48065"
-  integrity sha512-qMvjHiKH21zzM/VDZr6oosO6Ri3U0V2tC015jRXjOecwQCJtsU5zklTNTk31jQbIOP8gha0h1ccM/g0ECP+4BA==
+  version "1.0.30001114"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001114.tgz#2e88119afb332ead5eaa330e332e951b1c4bfea9"
+  integrity sha512-ml/zTsfNBM+T1+mjglWRPgVsu2L76GAaADKX5f4t0pbhttEp0WMawJsHDYlFkVZkoA+89uvBRrVrEE4oqenzXQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -9721,10 +9721,10 @@ rollup-pluginutils@^2.8.1, rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.24.0.tgz#d51b536a67664029138ebc85705efbe88558da3a"
-  integrity sha512-UaTQNUUjKT9NANDGOlZ2fZW9wL7OPYH8RS6CrHjsjdwlboc//xBDET5Q7WZOD2k+cJ2iD2fEnq4fnpVo2eTjGA==
+rollup@2.25.0:
+  version "2.25.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.25.0.tgz#5c69aa9a19b7ae2fd26520d790c01e7a46c9b6ea"
+  integrity sha512-S+OzytEaqcLugXAqesmJMb1Q16I6h1ps8F3AOX7yMZ1OkkuOATJH/x2lqJJtjQo2/d+0J4j62M2RbvgmxvOuCw==
   optionalDependencies:
     fsevents "~2.1.2"
 
