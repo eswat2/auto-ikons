@@ -61,7 +61,7 @@
     "@svgr/rollup": "5.5.0",
     "cross-env": "7.0.2",
     "eslint": "7.13.0",
-    "eslint-config-standard": "16.0.1",
+    "eslint-config-standard": "16.0.2",
     "eslint-config-standard-react": "11.0.1",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-node": "11.1.0",
@@ -72,7 +72,7 @@
     "react": "16.4.1",
     "react-dom": "16.4.2",
     "react-scripts": "4.0.0",
-    "rollup": "2.33.2",
+    "rollup": "2.33.3",
     "rollup-plugin-peer-deps-external": "2.2.4",
     "rollup-plugin-postcss": "3.1.8",
     "set-value": "3.0.2"
