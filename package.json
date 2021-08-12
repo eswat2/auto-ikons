@@ -74,7 +74,7 @@
     "react-scripts": "4.0.3",
     "rollup": "2.56.2",
     "rollup-plugin-peer-deps-external": "2.2.4",
-    "rollup-plugin-postcss": "4.0.0",
+    "rollup-plugin-postcss": "4.0.1",
     "set-value": "4.0.0"
   },
   "files": [
