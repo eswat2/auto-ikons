@@ -75,7 +75,7 @@
     "rollup": "2.56.3",
     "rollup-plugin-peer-deps-external": "2.2.4",
     "rollup-plugin-postcss": "4.0.1",
-    "set-value": "4.0.0"
+    "set-value": "4.1.0"
   },
   "files": [
     "dist"
