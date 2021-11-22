@@ -2494,8 +2494,7 @@ atob@^2.1.2:
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
 "auto-ikons@link:..":
-  version "0.0.0"
-  uid ""
+  version "0.1.341"
 
 autoprefixer@^9.6.1:
   version "9.8.8"
